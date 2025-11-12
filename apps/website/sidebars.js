@@ -30,7 +30,7 @@ module.exports = {
       type: 'category',
       label: 'System design interview preparation',
       collapsible: false,
-      items: ['system-design'],
+      items: ['system-design', 'staff-engineer-system-design-roadmap'],
     },
     {
       type: 'category',
